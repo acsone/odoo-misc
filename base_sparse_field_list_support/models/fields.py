@@ -2,7 +2,7 @@
 
 import json
 
-from odoo import fields
+from openerp import fields
 
 #
 # Definition and implementation of serialized fields: override
